@@ -1,0 +1,9 @@
+HC06
+SIN AJUSTE DE LINEA, 9600
+AT+NAMExxxxx
+AT+PINxxxx (solo 4 caracteres)
+
+HC05
+38400, PIN PARA ACTIVAR 
+AT+NAME=xxxxx (3.3v a pin para activar comando)
+AT+PSWD=xxxxx
